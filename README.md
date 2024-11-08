@@ -1,107 +1,109 @@
-# Crazy Time<!-- omit in toc -->
-
-
+# Bring Excitement to Your Game with the Crazy Time Spin Wheel
 <h3 align=center>
-<img src="https://simiarora.in/wp-content/uploads/2024/09/crazy-time.webp" width="720" height="400">
+<img src="https://cdn.shopify.com/app-store/listing_images/33cce4753abd3aa1d9f3184f922563e4/desktop_screenshot/CPHRtrOO9IYDEAE=.png?height=720&width=1280" width="720" height="400">
 </h3>
+<table align=center> <tr>
+      <th scope="col"><a href="https://link.fun88-india.com/blog-crazy-time-tracker">Crazy Time Spin Wheel</th>
+ </tr></table></h3></h3>
 
-Crazy Time is one of the most exhilarating online casino games, drawing in players from around the world with its engaging mechanics and vibrant visuals. Developed by Evolution Gaming, this live game show format combines elements of a traditional casino game with exciting bonuses, offering multiple opportunities to win big.
+Looking to create an engaging, interactive component to randomize choices and prizes? This "crazy time spin wheel" is an easy-to-use, themeable solution perfect for adding excitement to any game or app.
+<div class="markdown-heading" dir="auto">
+<h1 class="heading-element" dir="auto">Spin Wheel</h1>
+</div>
+<h3 align=center>
+<img src="https://camo.githubusercontent.com/53122181f4dbd8e9a0d5c2dede538f3b1235c668748aed4a482a08cbfcbbdd55/68747470733a2f2f6372617a7974696d2e6769746875622e696f2f7370696e2d776865656c2f7265706f2d7468756d626e61696c2e6a7067" width="720" height="400">
+</h3>
+<p dir="auto"><a title="View latest release" href="https://img.shields.io/github/v/tag/CrazyTim/spin-wheel.svg?sort=semver" rel="nofollow"><img src="https://camo.githubusercontent.com/5806ca25dbaa115eb80bbe3dd450607655fd93117085cbf3357ac51b9219918e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7461672f4372617a7954696d2f7370696e2d776865656c" alt="GitHub tag" data-canonical-src="https://img.shields.io/github/tag/CrazyTim/spin-wheel" /></a> <a href="https://camo.githubusercontent.com/68c368204f5af9eef19d9c91ef26d14156c6673d5c9d758b4bfe777576c07223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d617475726974792d737461626c652d626c7565" target="_blank" rel="noopener noreferrer nofollow"><img src="https://camo.githubusercontent.com/68c368204f5af9eef19d9c91ef26d14156c6673d5c9d758b4bfe777576c07223/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d617475726974792d737461626c652d626c7565" alt="maturity stable badge" data-canonical-src="https://img.shields.io/badge/maturity-stable-blue" /></a> <a title="View license" href="https://github.com/CrazyTim/spin-wheel?tab=readme-ov-file#license"><img src="https://camo.githubusercontent.com/bb4e5c0036a6a8cdbc59b38d44f09ad8f6dc722751dad34d3df5bf0ac61913c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c7565" alt="License" data-canonical-src="https://img.shields.io/badge/license-MIT-blue" /></a></p>
+<p dir="auto">A user-friendly, customizable component for randomizing selections and awarding prizes.</p>
 
-The Crazy Time game is not just about spinning the wheel, but a whole entertainment experience. With various bonus rounds and thrilling multipliers, it's a fan favorite for both new and seasoned players. Many popular online platforms, such as Fun88, now offer <a href="https://link.fun88-india.com/fun88-crazy-time"><b>Crazy Time</b></a> as part of their game selection, ensuring that players can enjoy the experience wherever they are.
-
-<h2>How Crazy Time Works</h2>
-At the core of the Crazy Time game is a large, colorful wheel divided into 54 segments, each representing different multipliers and bonus games.Players place bets on various outcomes, including numbers or one of the four exciting bonus games:
+<div class="markdown-heading" dir="auto"></div>
+<h3>Features</h3>
 <ul>
-  
- <li>Cash Hunt </li>
- <li>Coin Flip</li>
- <li>Pachinko</li>
- <li>Crazy Time </li>
+ 	<li><strong>Pure Vanilla JavaScript (ES6):</strong> Lightweight and dependency-free.</li>
+ 	<li><strong>Intuitive, Simple API:</strong> Designed for smooth integration.</li>
+ 	<li><strong>Momentum-Based Spinning:</strong> Spin with realistic drag and release or animate precisely to an angle with easing.</li>
+ 	<li><strong>Interactivity Options:</strong> Click-drag and touch-flick for easy user engagement.</li>
+ 	<li><strong>Responsive Layout:</strong> Adapts automatically to fit any container size.</li>
 </ul>
-The wheel is spun, and if the outcome matches the player's bet, they win based on the odds of that result.
-
-<h2>Crazy Time History</h2>
-<h3 align=center>
-<img src='https://www.dioup.org/wp-content/uploads/2023/12/Crazy-Time-Tracker-1-1024x585.jpg'width="720" height="400">
-<h3 align=center>
-<table align=center> <tr>
-      <th scope="col"><a href="https://link.fun88-india.com/blog-crazy-time-history">Crazy Time History</th>
- </tr></table></h3></h3>
-
-The development of Crazy Time by Evolution Gaming marked a new era for live casino games. Since its release, it has gained massive popularity due to its engaging and interactive format. Players around the globe can track the crazy time history today, which includes data on previous spins, the outcomes of each round, and the frequency of bonus rounds. This information is useful for those trying to develop strategies based on historical trends.
-
-For many, checking the today crazy time history is crucial to understanding game patterns and improving their chances of winning. By keeping an eye on the last crazy time outcome, players can make more informed betting decisions.
-
-<h2>Crazy Time Strategy and Tracking Tools</h2>
-
-Given the random nature of the game, there is no surefire way to predict the outcome of each spin. However, several tools and strategies can enhance your experience and potentially increase your odds.
-
-<h2>Crazy Time Hack</h2>
-<h3 align=center>
-<img src='https://fun88-blog.gumlet.io/blog/wp-content/uploads/2024/07/Crazy-Time-Hack-1024x536.webp'width="720" height="400">
-<h3 align=center>
-<table align=center> <tr>
-      <th scope="col"><a href="-">Crazy Time Hack</th>
- </tr></table></h3></h3>
-Some players search for a Crazy Time Hack to improve their chances of winning. While it's essential to remember that no hack can guarantee a win in a game of chance like Crazy Time, there are some tactics that players employ to maximize their profits. These include betting on all bonus rounds or tracking previous outcomes to identify trends in the crazy time history.
-
-<h2>Crazy Time Tracker</h2>
-<h3 align=center>
-<img src='https://www.dioup.org/wp-content/uploads/2023/12/Crazy-Time-Live-Tracker-1024x585.jpg'width="720" height="400">
-<h3 align=center>
-<table align=center> <tr>
-      <th scope="col"><a href="https://link.fun88-india.com/blog-crazy-time-tracker">Crazy Time Tracker</th>
- </tr></table></h3></h3>
-
-The Crazy Time Tracker is another valuable tool used by players. This software tracks game outcomes in real-time, including the results of each spin, bonus rounds, and multipliers. By using the Crazy Time Tracker, players can analyze trends and make more strategic bets.
-
-<h2>Crazy Time Strategy</h2>
-<h3 align=center>
-<img src='https://hopewellbigwoods.org/wp-content/uploads/2023/10/1-6.jpg'width="720" height="400">
-<h3 align=center>
-  <th scope="col"><a href="https://link.fun88-india.com/blog-crazy-time-strategy-and-tips">Crazy Time Strategy</th>
-<table align=center> <tr>
- </tr></table></h3></h3>
-
-For players looking to develop a Crazy Time Strategy, the best approach is usually to focus on managing their bankroll and making strategic bets based on historical data. Some players choose to bet on all bonus rounds to maximize their chances of hitting one, while others analyze the game history to place more informed bets.
-
-<h2>Crazy Time Casino and Betting</h2>
-<h3 align=center>
-<img src='https://www.mnnoc.org/wp-content/uploads/2024/03/Crazy-Time-Casino-Game-Review.jpg'width="720" height="400">
-<h3 align=center>
-<table align=center> <tr>
- </tr></table></h3></h3>
-
-Crazy Time is available in numerous online casinos, but crazy time casino online platforms such as 24betting crazy time are especially popular for offering this engaging game. Players flock to these platforms to enjoy crazy time casino experiences in a user-friendly environment. Whether you’re a seasoned player or a newbie, 24 betting crazy time offers a smooth and exciting gaming experience that allows players to dive into the world of live casino gaming with ease.
-
-<h2>Crazy Time Live Statistics</h2>
-<h3 align=center>
-<img src='https://assets.isu.pub/document-structure/230303080440-374745e3e4b53ba9de9e8e5159282f7e/v1/04aa502404481037cf8c6dab176a61e8.jpeg'width="720" height="400">
-</h3>
-<h3 align=center>
-   <th scope="col"><a href="https://link.fun88-india.com/blog-crazy-time-statistics">Crazy Time Live Statistics</th>
-<table align=center> <tr>
-</tr></table></h3> 
-
-Crazy Time Live Statistics are a goldmine of information for anyone looking to gain an edge in the game. By analyzing real-time data, players can track the outcomes of each spin and bonus round. These live statistics are particularly useful when developing a Crazy Time Strategy, as they offer insights into the frequency of certain outcomes, multipliers, and more.
-
-<h2>Conclusion</h2>
-The Crazy Time game is one of the most entertaining and unpredictable live casino games available today. With its mix of chance, bonus rounds, and interactive features, it provides an exhilarating gaming experience. Whether you're analyzing crazy time history or using tools like the Crazy Time Tracker or following Crazy Time Live Statistics, there are plenty of ways to enhance your gameplay. As with any casino game, it's crucial to play responsibly and enjoy the ride.
-
-
-<h2>Frequently Asked Questions (FAQs)</h2>
-
-<h3>1. What is Crazy Time?</h3>
-Crazy Time is a live online casino game developed by Evolution Gaming. It features a large money wheel, bonus rounds, and the chance to win big multipliers, making it a popular choice for casino players.
-
-<h3>2. What is the Crazy Time Tracker?</h3>
-The Crazy Time Tracker is a tool that records game outcomes in real-time, helping players analyze previous spins and bonus round results. This information can help develop strategies for better betting decisions.
-
-<h3>3. Can you predict the outcome of Crazy Time?</h3>
-While some players try to use strategies or tools like the Crazy Time Tracker, there is no guaranteed way to predict the outcome of Crazy Time. The game is based on chance, and each spin is independent of previous results.
-
-<h3>4. Is there a Crazy Time Hack?</h3>
-Some claim to have found a Crazy Time Hack, but there is no proven method to cheat or hack the game. It's essential to play responsibly and treat the game as a form of entertainment.
-
-<h3>5. Where can I play Crazy Time?</h3>
-You can play Crazy Time at many online casinos, including popular platforms like 24betting crazy time, which offer the game in a live casino environment.
+<h3>Customizable Themes</h3>
+Customize the wheel’s appearance to match your app's look. From individual item colors to label rotation and alignment, it’s easy to create unique styles. Add images, set color schemes, or adjust wheel labels for a completely tailored spin wheel.
+<h3>Event Callbacks</h3>
+With events like <code>onSpin</code> and <code>onCurrentIndexChange</code>, you can execute actions as the wheel spins and interacts. Spin clockwise or counterclockwise, trigger sound effects, or update visual elements in real-time for a fully immersive experience.
+<h3>Installation Options</h3>
+<ol>
+ 	<li><strong>ESM Module</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">javascript</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-javascript"><span class="hljs-keyword">import</span> { <span class="hljs-title class_">Wheel</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">'https://cdn.jsdelivr.net/npm/spin-wheel@5.0.2/dist/spin-wheel-esm.js'</span>;
+</code></div>
+</div></li>
+ 	<li><strong>IIFE</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">html</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"https://cdn.jsdelivr.net/npm/spin-wheel@5.0.2/dist/spin-wheel-iife.js"</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</code></div>
+</div></li>
+ 	<li><strong>Local Installation</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">bash</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-bash">npm install spin-wheel
+</code></div>
+</div></li>
+</ol>
+<h3>Building Your Own Crazy Time Spin Wheel</h3>
+<ol>
+ 	<li><strong>Set Up Properties:</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">javascript</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-javascript"><span class="hljs-keyword">const</span> props = {
+<span class="hljs-attr">items</span>: [
+{ <span class="hljs-attr">label</span>: <span class="hljs-string">'Prize 1'</span> },
+{ <span class="hljs-attr">label</span>: <span class="hljs-string">'Prize 2'</span> },
+{ <span class="hljs-attr">label</span>: <span class="hljs-string">'Prize 3'</span> },
+]
+};
+</code></div>
+</div></li>
+ 	<li><strong>Target Your Container:</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">javascript</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-javascript"><span class="hljs-keyword">const</span> container = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">querySelector</span>(<span class="hljs-string">'.wheel-container'</span>);
+</code></div>
+</div></li>
+ 	<li><strong>Initialize the Wheel:</strong>
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">javascript</div>
+<div class="sticky top-9 md:top-[5.75rem]"></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-javascript"><span class="hljs-keyword">const</span> wheel = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Wheel</span>(container, props);
+</code></div>
+</div></li>
+</ol>
+<h3>Spinning the Wheel</h3>
+To control the wheel’s spin, use <code>Wheel.spinToItem()</code> to direct it to a specified item. Calculate the winning item on the backend, then call the following:
+<div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
+<div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none">javascript</div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-javascript"><span class="hljs-keyword">const</span> winningItemIndex = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetchWinningItemIndex</span>();
+<span class="hljs-keyword">const</span> duration = <span class="hljs-number">4000</span>;
+<span class="hljs-keyword">const</span> easing = easing.<span class="hljs-property">cubicOut</span>;
+wheel.<span class="hljs-title function_">spinToItem</span>(winningItemIndex, duration, <span class="hljs-literal">true</span>, <span class="hljs-number">2</span>, <span class="hljs-number">1</span>, easing);
+</code></div>
+</div>
+For a more free-form spin, use <code>Wheel.spin()</code> with adjustable speed and resistance.
+<h3>Adding a Pointer</h3>
+The wheel component doesn’t include a pointer by default, giving you the flexibility to design and position it as you like. Overlay an image with <code>Wheel.overlayImage</code> or use CSS and DOM elements for a custom effect.
+<h3>Flexible Configuration</h3>
+The crazy time spin wheel is designed to be responsive, adjusting automatically based on its container. Sizes are percentage-based to simplify scaling, and font sizes auto-adjust for balanced readability.
+<h3>Methods for Advanced Control</h3>
+Here’s a quick look at the main methods:
+<ul>
+ 	<li><strong><code>spin(rotationSpeed)</code></strong>: Spins the wheel at a specific speed and slows over time.</li>
+ 	<li><strong><code>spinTo(rotation, duration, easingFunction)</code></strong>: Spins the wheel to a precise angle.</li>
+ 	<li><strong><code>spinToItem(itemIndex, duration, spinToCenter, revolutions, direction, easingFunction)</code></strong>: Spins to a target item with customized duration and easing.</li>
+</ul>
+<h3>Example Usage</h3>
+Create your very own crazy time spin wheel today, customizing properties and using the <code>Wheel</code> API to create exciting, dynamic gameplay experiences that captivate players.
